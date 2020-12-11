@@ -4,7 +4,7 @@ http://ec2-3-130-17-76.us-east-2.compute.amazonaws.com/
 
 ### Introduction
 
-**The project created an interactive interface for residents, investors, and local communities to better understand their neighborhood rental markets and to optimize the improvement schemes. **
+**The project created an interactive interface for residents, investors, and local communities to better understand their neighborhood rental markets and to optimize the improvement schemes.**
 
 It has analyzed the rental markets per neighborhood in New Jersey and New York, and successfully identified the importance of socio-spatial features, including location, demographics, social environments, local transportation, and characteristics of neighborhood-built environments on determining the rental prices besides rental properties themselves (for example, interior features like the numbers of bedrooms and bathrooms, furnishing conditions, views, and exterior features like building/community amenities and HOA services). Particularly in dense areas/cities like Manhattan, commute services, and city life features affect people’s housing choices with less car uses compared to suburban areas.
 
@@ -34,7 +34,9 @@ As the effects of policies (except housing policies) on rental prices were uncer
 
 ### Analyses
 The analysis notebook contains the code for plotting bar charts that show the median rents and seven livability scores across each county in NJ and NY.
+
 In the visualization-1 notebook, it shows the median rent map in the metro NYC area by the interactive tool, Bokeh.
+
 In the visualization-2 notebook, it shows the prediction results with changing factors in the Bronx by the interactive tool, Bokeh.
 
 ### Model Selections and Results
